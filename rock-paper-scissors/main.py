@@ -17,3 +17,18 @@ if u == "R":
         print("You Won")
     else:
         print("Match Tied!")
+if u == "P":
+    if comp == "P":
+        print("Match Tied!")
+    elif comp == "S":
+        print("Computer Won")
+    else:
+        print("You Won")
+if u == "S":
+    if comp == "P":
+        print("You Won")
+    elif comp == "S":
+        print("Match Tied!")
+    else:
+        print("Computer Won")
+print("You: " + u, "Computer: " + comp)
