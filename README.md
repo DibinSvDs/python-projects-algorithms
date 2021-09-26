@@ -1,5 +1,5 @@
-## Python Projects
-Here I will upload code of my Python Projects.
+## Python Projects and Algorithms
+Here I will upload code of my Python Projects and some Algorithms.
 
 Below you will see all the python projects I have uploaded in this repository.
 
