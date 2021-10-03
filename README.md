@@ -22,3 +22,8 @@ Linear Search is easy to use, but, When the length of the array is bigger, Linea
 Binary search algorithm using Python.
 
 Binary Search algorithm is a faster searching algorithm. Binary Search takes less time than linear search. Now days, Binary Search is used most for searching a number in an array
+
+## Guess the Number F
+This is a number guessing game using Functions and Classes.
+
+The code is changed but the game is not changed, In this game, If you entered an letter, like 'a', 'b', 'c', 'd', etc., The game will still run, and that is the best thing about this project.
